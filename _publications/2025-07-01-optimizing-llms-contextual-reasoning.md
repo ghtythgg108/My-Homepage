@@ -3,16 +3,16 @@ title: "Optimizing Large Language Models for Contextual Reasoning in Multi-Task 
 collection: publications
 category: conferences
 permalink: /publication/2025-07-01-optimizing-llms-contextual-reasoning
-excerpt: 'Accepted to NeurIPS 2025. This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments. Code is open sourced on GitHub.'
+excerpt: 'Accepted to COAI 2025. This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments. Code is open sourced on GitHub.'
 date: 2025-07-01
-venue: 'NeurIPS 2025'
+venue: 'COAI 2025 - Conference on Artificial Intelligence'
 slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
-paperurl: 'https://example.com/neurips-paper'
+paperurl: 'https://example.com/coai-paper'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
 codeurl: 'https://github.com/ghtythgg108/optimizing-llms-contextual-reasoning'
-citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>NeurIPS 2025</i>.'
+citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>COAI 2025 - Conference on Artificial Intelligence</i>.'
 ---
 
-**Status:** Accepted to NeurIPS 2025.
+**Status:** Accepted to COAI 2025.
 
 **Code:** Open sourced at [ghtythgg108/optimizing-llms-contextual-reasoning](https://github.com/ghtythgg108/optimizing-llms-contextual-reasoning).
